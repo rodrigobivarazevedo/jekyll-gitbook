@@ -12,10 +12,11 @@ Hello! I'm **Rodrigo Azevedo**, an aspiring machine learning engineer with a pas
 
 With a strong background in software development and a keen interest in machine learning, I am on a journey to become a proficient machine learning engineer. I enjoy exploring new technologies, building models, and continuously improving my skill set.
 
-
 ## Get in Touch
 
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me through any of the following channels:
+
+## Contact
 
 - **LinkedIn:** [linkedin.com/in/rodrigo-bivar-azevedo](https://www.linkedin.com/in/rodrigo-bivar-azevedo/)
 - **GitHub:** [github.com/rodrigobivarazevedo](https://github.com/rodrigobivarazevedo)
