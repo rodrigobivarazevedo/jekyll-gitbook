@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: Supervised Machine Learning
 author: Rodrigo
 date: 2024-07-22
 category: Jekyll
@@ -7,57 +7,23 @@ layout: post
 mermaid: true
 ---
 
-This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
-in markdown.
 
-e.g.,
-
-```markdown
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents[^1].
-Meaning the next equation has no integer solutions:
-
-$$ x^n + y^n = z^n $$
-```
-
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents[^1].
-Meaning the next equation has no integer solutions:
-
-$$ x^n + y^n = z^n $$
-
-Supervised Machine Learning
+Regression
 -------------
-
-1. Regression
-2. classification
-
-
 
 ### Linear Regression
 
 ### Plynomial Regression
+
+
+Classification 
+-------------
 
 ### Decision Trees
 
 ### Support Vector Machines
 
 ### Logistic Regression
-
-
-Unsupervised Machine Learning
--------------
-
-1. a
-2. b
-3. c
-4. d
-
-### 
-
-### Sub title 2
-
-### Sub title 3
 
 
 -------------
