@@ -38,11 +38,18 @@ supervised machine learning .....
 
 ### Regression
 
+## Linear Regression
+## Plynomial Regression
+
 ### Classification
 
+## Decision Trees
 
+## Support Vector Machines
 
-Long contents
+## Logistic Regression
+
+Unsupervised Machine Learning
 -------------
 
 long contents .....
@@ -58,7 +65,7 @@ long contents .....
 
 ### Sub title 3
 
-Long contents
+
 -------------
 
 long contents .....
