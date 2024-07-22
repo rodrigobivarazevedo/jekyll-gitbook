@@ -6,9 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-# About Me
-
-Hello! I'm **Tao He**, an aspiring machine learning engineer with a passion for creating intelligent systems and sharing knowledge through my blog. Welcome to my corner of the internet!
+Hello! I'm **Rodrigo Azevedo**, an aspiring machine learning engineer with a passion for creating intelligent systems and sharing knowledge through my blog. Welcome to my corner of the internet!
 
 ## Background
 
