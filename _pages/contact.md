@@ -1,9 +1,11 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: Rodrigo Azevedo
+date: 2024-07-22
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+- **LinkedIn:** [linkedin.com/in/rodrigo-bivar-azevedo](https://www.linkedin.com/in/rodrigo-bivar-azevedo/)
+- **GitHub:** [github.com/rodrigobivarazevedo](https://github.com/rodrigobivarazevedo)
+
