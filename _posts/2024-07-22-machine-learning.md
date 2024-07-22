@@ -29,30 +29,24 @@ $$ x^n + y^n = z^n $$
 Supervised Machine Learning
 -------------
 
-supervised machine learning .....
+1. Regression
+2. classification
 
-1. a
-2. b
-3. c
-4. d
 
-### Regression
 
-## Linear Regression
-## Plynomial Regression
+### Linear Regression
 
-### Classification
+### Plynomial Regression
 
-## Decision Trees
+### Decision Trees
 
-## Support Vector Machines
+### Support Vector Machines
 
-## Logistic Regression
+### Logistic Regression
+
 
 Unsupervised Machine Learning
 -------------
-
-long contents .....
 
 1. a
 2. b
